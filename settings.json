@@ -80,4 +80,7 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "workbench.editor.untitled.hint": "hidden",
 }
